@@ -17,5 +17,3 @@ Learning network discovery, host detection, and port scanning using Nmap.
 ## Purpose
 To develop practical Linux and cybersecurity skills through hands-on exercises.
 
-## Author
-Eman Asghar Ali
